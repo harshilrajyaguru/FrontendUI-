@@ -41,4 +41,23 @@ Developed as part of my internship at **Cerebulb (India) Pvt. Ltd.**, this proje
 
 
 ## 📂 Project Structure
+/src
+├── components # Reusable UI components
+├── pages # Page-level components
+├── App.css # CSS configuration and global styles
+├── App.jsx # Main application entry
+└── main.jsx # React DOM rendering
+
+## ⚡ Getting Started
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/harshilrajyaguru/FrontendUI-.git
+cd FrontendUI-
+```
+### 2. Install dependencies
+npm install
+
+### 3. Run the app locally
+npm run dev
 
